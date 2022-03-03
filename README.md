@@ -33,6 +33,10 @@
 
 ```  pkg install git -y```
 
+``` pkg install rube -y```
+
+``` gem install lolcat```
+
 ```  git clone https://github.com/BD-CLAY-Hacker/TermuxSetup```
 
 ```  cd TermuxSetup```
@@ -41,7 +45,7 @@
 
 # Normal User (One Command Run)
 ```
-pkg up -y ; pkg install python -y ; pkg install git -y ; git clone https://github.com/BD-CLAY-Hacker/TermuxSetup ; cd TermuxSetup ; python pkg-installer.py 
+pkg up -y ; pkg install python -y ; pkg install git -y ; pkg install ruby -y ; gem install lolcat ; git clone https://github.com/BD-CLAY-Hacker/TermuxSetup ; cd TermuxSetup ; python pkg-installer.py 
 ```
 
 # Contact Info : 🙂🤟
