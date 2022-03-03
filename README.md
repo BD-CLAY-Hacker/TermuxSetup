@@ -33,7 +33,7 @@
 
 ```  pkg install git -y```
 
-``` pkg install rube -y```
+``` pkg install ruby -y```
 
 ``` gem install lolcat```
 
